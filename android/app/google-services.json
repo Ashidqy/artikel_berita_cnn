@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171489056317",
+    "project_id": "usernewscnn",
+    "storage_bucket": "usernewscnn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171489056317:android:63954049c865177d033c54",
+        "android_client_info": {
+          "package_name": "com.example.article"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxs99O-I4l0dsomF7SD0Nq0xEFzXH7zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
